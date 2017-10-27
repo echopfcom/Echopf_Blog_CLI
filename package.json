@@ -1,0 +1,20 @@
+{
+  "name": "echopf-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "echopf-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "inquirer": "^3.3.0",
+    "pretty-data": "^0.40.0",
+    "to-markdown": "^3.1.0"
+  }
+}
