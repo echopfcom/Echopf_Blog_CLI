@@ -14,7 +14,10 @@
   "dependencies": {
     "commander": "^2.11.0",
     "inquirer": "^3.3.0",
+    "js-yaml": "^3.10.0",
     "pretty-data": "^0.40.0",
+    "showdown": "^1.8.2",
+    "strftime": "^0.10.0",
     "to-markdown": "^3.1.0"
   }
 }
